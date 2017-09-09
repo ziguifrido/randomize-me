@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Randomize me</string>
+    <string name="errorEmptyEdit">It\'s necessary to fill all the fields!</string>
+    <string name="errorFromTo">The field \"to\" must be bigger than the field \"from\"!</string>
+    <string name="txtLabelFrom">From</string>
+    <string name="txtLabelTo">To</string>
+</resources>

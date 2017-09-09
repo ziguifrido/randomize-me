@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Randomize me</string>
+    <string name="btnRandomize" translatable="false">Randomize</string>
+    <string name="errorFromTo">O campo "até" deve ser maior que o campo "de"!</string>
+    <string name="txtLabelFrom">De</string>
+    <string name="txtLabelTo">Até</string>
+    <string name="errorEmptyEdit">É necessário preencher os campos!</string>
+</resources>
